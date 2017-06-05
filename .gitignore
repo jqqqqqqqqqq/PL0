@@ -95,3 +95,9 @@ ENV/
 # Rope project settings
 .ropeproject
 
+.gitignore
+.idea/workspace.xml
+config.pyc
+const.pyc
+define.pyc
+var.pyc
